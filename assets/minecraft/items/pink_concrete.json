@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/pink_concrete"
+    "model": "minecraft:item/pink_concrete"
   }
 }

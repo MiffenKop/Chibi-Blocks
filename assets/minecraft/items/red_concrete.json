@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/red_concrete"
+    "model": "minecraft:item/red_concrete"
   }
 }

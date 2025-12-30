@@ -56,10 +56,6 @@
 			"rotation": [30, 135, 0],
 			"scale": [0.625, 0.625, 0.625]
 		},
-		"fixed": {
-			"rotation": [-22.5, 0, 0],
-			"translation": [0, 2.5, 1]
-		},
 		"on_shelf": {
 			"rotation": [0, -180, 0]
 		}

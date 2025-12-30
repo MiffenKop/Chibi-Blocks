@@ -1,0 +1,29 @@
+{
+	"parent": "item/templates/base",
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [4, 8, 12, 12], "texture": "#north", "cullface": "north"},
+				"east": {"uv": [4, 8, 12, 12], "texture": "#east", "cullface": "east"},
+				"south": {"uv": [4, 8, 12, 12], "texture": "#south", "cullface": "south"},
+				"west": {"uv": [4, 8, 12, 12], "texture": "#west", "cullface": "west"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#up", "cullface": "up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#down", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		}
+	}
+}

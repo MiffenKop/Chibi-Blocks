@@ -1,6 +1,6 @@
 {
 	"parent": "item/templates/fence",
 	"textures": {
-		"all": "item/spruce_planks"
+		"all": "item/jungle_planks"
 	}
 }

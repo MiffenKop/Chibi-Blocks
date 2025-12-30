@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/warped_fence_inventory"
+    "model": "minecraft:item/warped_fence"
   }
 }

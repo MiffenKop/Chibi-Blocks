@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/slab",
+	"textures": {
+		"north": "item/stonecutter_side",
+		"east": "item/stonecutter_side",
+		"south": "item/stonecutter_side",
+		"west": "item/stonecutter_side",
+		"up": "item/stonecutter",
+		"down": "item/stonecutter_bottom"
+	}
+}

@@ -1,6 +1,15 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/stonecutter"
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "item/stonecutter"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "item/stonecutter_slab"
+      }
+    ]
   }
 }

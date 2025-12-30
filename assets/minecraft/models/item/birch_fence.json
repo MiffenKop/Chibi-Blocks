@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/oak_fence",
+  "textures": {
+    "0": "minecraft:item/birch_planks"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/enchanting_table"
+    "model": "minecraft:item/enchanting_table"
   }
 }

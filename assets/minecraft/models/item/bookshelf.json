@@ -1,11 +1,7 @@
 {
-  "parent": "item/templates/block",
+  "parent": "item/templates/block_pillar",
   "textures": {
-    "north": "item/bookshelf",
-    "east": "item/bookshelf",
-    "south": "item/bookshelf",
-    "west": "item/bookshelf",
-    "up": "item/oak_planks",
-    "down": "item/oak_planks"
+    "side": "item/bookshelf",
+    "end": "item/oak_planks"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/stone_bricks"
+    "model": "minecraft:item/stone_bricks"
   }
 }

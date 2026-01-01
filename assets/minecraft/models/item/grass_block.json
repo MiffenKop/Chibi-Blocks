@@ -1,5 +1,5 @@
 {
-	"parent": "item/templates/block",
+	"parent": "item/templates/base",
 	"textures": {
 		"base": "item/grass_block",
 		"overlay": "item/grass_block_overlay",

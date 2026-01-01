@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/cyan_wool"
+    "model": "minecraft:item/cyan_wool"
   }
 }

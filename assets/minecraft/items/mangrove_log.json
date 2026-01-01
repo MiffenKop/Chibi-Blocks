@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/mangrove_log"
+    "model": "minecraft:item/mangrove_log"
   }
 }

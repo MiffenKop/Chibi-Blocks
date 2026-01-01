@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/slab_pillar",
+  "textures": {
+    "side": "item/smooth_stone_slab",
+    "end": "item/smooth_stone"
+  }
+}

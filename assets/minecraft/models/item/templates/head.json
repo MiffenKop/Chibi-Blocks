@@ -1,0 +1,19 @@
+{
+	"parent": "item/templates/base",
+	"texture_size": [32, 32],
+	"elements": [
+		{
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [4, 8, 8, 12], "texture": "#skull"},
+				"east": {"uv": [0, 8, 4, 12], "texture": "#skull"},
+				"south": {"uv": [12, 8, 16, 12], "texture": "#skull"},
+				"west": {"uv": [8, 8, 12, 12], "texture": "#skull"},
+				"up": {"uv": [8, 8, 4, 4], "texture": "#skull"},
+				"down": {"uv": [12, 4, 8, 8], "texture": "#skull"}
+			}
+		}
+	]
+}

@@ -4,7 +4,7 @@ Any textures not mentioned here were made by MiffenKop, or Mr.Spookypumkinhead
 
 Mojang: Grass Block*, Dirt, & Bookshelf*
 
-LarsMans: Amethyst, Bedrock, Crafting Table*, Deepslate Diamond Ore, Enchanting Table*, End Portal Frame, Furnace* (reused for dispenser and dropper), Hay Bale, Iron Block, Scaffolding, Sculk Catalyst (reused for sculk), Sniffer Egg, TNT, Flowering Azalea Leaves, Jungle Leaves* & Spruce Leaves*
+LarsMans: Amethyst, Bedrock, Crafting Table*, Deepslate Diamond Ore, Enchanting Table*, End Portal Frame, Furnace* (reused for dispenser and dropper sides), Hay Bale, Iron Block, Scaffolding, Sculk Catalyst (reused for sculk), Sniffer Egg, TNT, Flowering Azalea Leaves, Jungle Leaves* & Spruce Leaves*
 
 Shark_cool: Blast Furnace*
 

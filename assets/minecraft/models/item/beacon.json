@@ -21,7 +21,6 @@
 		{
 			"from": [4, 4, 4],
 			"to": [12, 12, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
 			"faces": {
 				"north": {"uv": [6, 6, 10, 10], "texture": "#core"},
 				"east": {"uv": [6, 6, 10, 10], "texture": "#core"},

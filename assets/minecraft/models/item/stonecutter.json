@@ -1,14 +1,12 @@
 {
 	"parent": "item/templates/slab",
 	"textures": {
-		"particle": "item/stonecutter_saw",
 		"saw": "item/stonecutter_saw"
 	},
 	"elements": [
 		{
 			"from": [2, 8, 8],
 			"to": [14, 14, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 0]},
 			"faces": {
 				"north": {"uv": [5, 5, 11, 8], "texture": "#saw"},
 				"south": {"uv": [5, 5, 11, 8], "texture": "#saw"}

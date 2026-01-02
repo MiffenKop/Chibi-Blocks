@@ -1,14 +1,12 @@
 {
 	"parent": "item/templates/base",
 	"textures": {
-		"0": "item/sniffer_egg",
-		"particle": "item/sniffer_egg"
+		"0": "item/sniffer_egg"
 	},
 	"elements": [
 		{
 			"from": [1, 0, 2],
 			"to": [15, 16, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 2]},
 			"faces": {
 				"north": {"uv": [0, 8, 7, 16], "texture": "#0"},
 				"east": {"uv": [9, 0, 15, 8], "texture": "#0"},

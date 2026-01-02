@@ -3,19 +3,22 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"1": "item/slime_block"
+		"0": "item/honey_inside",
+		"1": "item/honey_block",
+		"particle": "item/honey_inside"
 	},
 	"elements": [
 		{
-			"from": [3, 3, 3],
-			"to": [13, 13, 13],
+			"from": [1, 1, 1],
+			"to": [15, 15, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2, -2, -2]},
 			"faces": {
-				"north": {"uv": [5, 5, 10, 10], "texture": "#1"},
-				"east": {"uv": [5, 5, 10, 10], "texture": "#1"},
-				"south": {"uv": [5, 5, 10, 10], "texture": "#1"},
-				"west": {"uv": [5, 5, 10, 10], "texture": "#1"},
-				"up": {"uv": [5, 5, 10, 10], "texture": "#1"},
-				"down": {"uv": [5, 5, 10, 10], "texture": "#1"}
+				"north": {"uv": [5, 5, 12, 12], "texture": "#0"},
+				"east": {"uv": [5, 5, 12, 12], "texture": "#0"},
+				"south": {"uv": [5, 5, 12, 12], "texture": "#0"},
+				"west": {"uv": [5, 5, 12, 12], "texture": "#0"},
+				"up": {"uv": [5, 5, 12, 12], "texture": "#0"},
+				"down": {"uv": [5, 5, 12, 12], "texture": "#0"}
 			}
 		},
 		{

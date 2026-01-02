@@ -7,19 +7,5 @@
 		"west": "item/enchanting_table",
 		"up": "item/enchanting_table_top",
 		"down": "item/obsidian"
-	},
-	"display": {
-		"fixed": {
-			"rotation": [
-				-90,
-				0,
-				0
-			],
-			"translation": [
-				0,
-				0,
-				3
-			]
-		}
 	}
 }

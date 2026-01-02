@@ -1,0 +1,17 @@
+{
+	"parent": "item/templates/base",
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"faces": {
+				"north": {"uv": [4, 11, 12, 12], "texture": "#north"},
+				"east": {"uv": [4, 11, 12, 12], "texture": "#east"},
+				"south": {"uv": [4, 11, 12, 12], "texture": "#south"},
+				"west": {"uv": [4, 11, 12, 12], "texture": "#west"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#up"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#down"}
+			}
+		}
+	]
+}

@@ -1,6 +1,15 @@
 {
-  "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/chest_minecart"
-  }
+	"model": {
+		"type": "minecraft:composite",
+		"models": [
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:item/minecart"
+			},
+			{
+				"type": "minecraft:model",
+				"model": "minecraft:item/chest_minecart"
+			}
+		]
+	}
 }

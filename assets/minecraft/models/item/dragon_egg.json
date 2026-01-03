@@ -1,6 +1,4 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made by Miffen Kop!",
 	"parent": "item/templates/base",
 	"textures": {
 		"1": "item/dragon_egg"

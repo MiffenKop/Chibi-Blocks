@@ -1,10 +1,6 @@
 {
   "model": {
-    "type": "minecraft:special",
-    "base": "minecraft:item/exposed_copper_chest",
-    "model": {
-      "type": "minecraft:chest",
-      "texture": "minecraft:copper_exposed"
-    }
+    "type": "minecraft:model",
+    "model": "minecraft:item/exposed_copper_chest"
   }
 }

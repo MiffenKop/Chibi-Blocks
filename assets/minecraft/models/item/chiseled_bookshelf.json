@@ -1,0 +1,9 @@
+{
+  "parent": "item/templates/block_pf",
+  "textures": {
+    "front": "item/chiseled_bookshelf",
+    "side": "item/chiseled_bookshelf_side",
+    "top": "item/chiseled_bookshelf_top",
+    "bottom": "item/chiseled_bookshelf_top"
+  }
+}

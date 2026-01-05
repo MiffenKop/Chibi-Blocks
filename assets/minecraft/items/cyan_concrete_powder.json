@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/cyan_concrete_powder"
+    "model": "minecraft:item/cyan_concrete_powder"
   }
 }

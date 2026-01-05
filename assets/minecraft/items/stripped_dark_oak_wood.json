@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/stripped_dark_oak_wood"
+    "model": "minecraft:item/stripped_dark_oak_wood"
   }
 }

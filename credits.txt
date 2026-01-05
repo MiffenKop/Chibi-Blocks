@@ -8,5 +8,6 @@ LarsMans: Amethyst, Bedrock, Crafting Table*, Deepslate Diamond Ore, Enchanting 
 
 Shark_cool: Blast Furnace*
 
-ImXR24: Cherry Leaves*, Oak Planks (reused for all planks and workbench bottoms), Cobblestone* (reused for endstone),
+ImXR24: Cherry Leaves*, Oak Planks (reused for all planks and workbench bottoms), Cobblestone* (reused for endstone)
 
+GamingBob: Stripped Oak Log (reused for other stripped logs and stripped woods), Podzil*, Path*, Oak Trapdoor, Mycelium*, Mud, Farmland*, Beehive, Bee nest, Melon, and Chiseled Bookshelf*

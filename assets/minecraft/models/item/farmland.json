@@ -1,0 +1,8 @@
+{
+  "parent": "item/templates/path",
+  "textures": {
+    "side": "item/dirt",
+    "top": "item/farmland",
+    "bottom": "item/dirt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Miffen Kop!",
+	"parent": "item/templates/base",
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 14, 16],
+			"faces": {
+				"north": {"uv": [4, 5, 12, 12], "texture": "#side"},
+				"east": {"uv": [4, 5, 12, 12], "texture": "#side"},
+				"south": {"uv": [4, 5, 12, 12], "texture": "#side"},
+				"west": {"uv": [4, 5, 12, 12], "texture": "#side"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#top"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#bottom"}
+			}
+		}
+	]
+}

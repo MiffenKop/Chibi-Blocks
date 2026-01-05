@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/stripped_jungle_log",
+    "end": "item/stripped_jungle_log_top"
+  }
+}

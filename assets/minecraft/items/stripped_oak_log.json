@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/stripped_oak_log"
+    "model": "minecraft:item/stripped_oak_log"
   }
 }

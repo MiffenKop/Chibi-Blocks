@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/stripped_cherry_log"
+    "model": "minecraft:item/stripped_cherry_log"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "item/carved_pumpkin",
+  "textures": {
+    "front": "item/jack_o_lantern"
+  }
+}

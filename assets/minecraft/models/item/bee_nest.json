@@ -1,0 +1,9 @@
+{
+  "parent": "item/templates/block_pf",
+  "textures": {
+    "front": "item/bee_nest",
+    "side": "item/bee_nest_side",
+    "top": "item/bee_nest_top",
+    "bottom": "item/bee_nest_bottom"
+  }
+}

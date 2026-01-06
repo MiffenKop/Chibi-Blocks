@@ -1,7 +1,5 @@
 {
-	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
-	"parent": "item/templates/block_all",
+	"parent": "item/templates/base",
 	"textures": {
 		"1": "item/slime_block"
 	},

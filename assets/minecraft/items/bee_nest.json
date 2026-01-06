@@ -6,14 +6,14 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:block/bee_nest_honey"
+          "model": "minecraft:item/bee_nest_honey"
         },
         "when": "5"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:block/bee_nest_empty"
+      "model": "minecraft:item/bee_nest"
     },
     "property": "minecraft:block_state"
   }

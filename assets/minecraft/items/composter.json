@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/composter"
+    "model": "minecraft:item/composter"
   }
 }

@@ -1,0 +1,9 @@
+{
+	"parent": "item/templates/block_pf",
+	"textures": {
+		"front": "item/beehive",
+		"side": "item/beehive_side",
+		"top": "item/beehive_end",
+		"bottom": "item/beehive_end"
+	}
+}

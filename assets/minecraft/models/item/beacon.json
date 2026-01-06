@@ -1,5 +1,5 @@
 {
-	"parent": "item/templates/block",
+	"parent": "item/templates/base",
 	"textures": {
 		"core": "item/beacon",
 		"base": "item/obsidian"
@@ -8,7 +8,6 @@
 		{
 			"from": [2, -0.001, 2],
 			"to": [14, 3.999, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 14]},
 			"faces": {
 				"north": {"uv": [5, 10, 11, 12], "texture": "#base"},
 				"east": {"uv": [5, 10, 11, 12], "texture": "#base"},

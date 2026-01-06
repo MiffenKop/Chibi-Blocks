@@ -1,0 +1,6 @@
+{
+  "parent": "item/beehive",
+  "textures": {
+    "front": "item/beehive_honey"
+  }
+}

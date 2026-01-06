@@ -1,0 +1,8 @@
+{
+	"parent": "item/templates/block_pc",
+	"textures": {
+		"side": "item/barrel",
+		"top": "item/barrel_top",
+		"bottom": "item/barrel_bottom"
+	}
+}

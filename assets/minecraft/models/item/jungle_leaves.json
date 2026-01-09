@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/leaves",
+	"textures": {
+		"all": "item/jungle_leaves"
+	}
+}

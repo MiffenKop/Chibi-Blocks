@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/gray_terracotta"
+    "model": "minecraft:item/gray_terracotta"
   }
 }

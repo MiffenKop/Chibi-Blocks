@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/gold_block"
+    "model": "minecraft:item/gold_block"
   }
 }

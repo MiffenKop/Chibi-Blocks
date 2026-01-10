@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/block_all",
+	"textures": {
+		"all": "item/deepslate_coal_ore"
+	}
+}

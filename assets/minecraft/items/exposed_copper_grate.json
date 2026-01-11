@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/exposed_copper_grate"
+    "model": "minecraft:item/exposed_copper_grate"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/exposed_chiseled_copper"
+    "model": "minecraft:item/exposed_chiseled_copper"
   }
 }

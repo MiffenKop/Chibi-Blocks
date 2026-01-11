@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/carpet",
+	"textures": {
+		"all": "item/red_wool"
+	}
+}

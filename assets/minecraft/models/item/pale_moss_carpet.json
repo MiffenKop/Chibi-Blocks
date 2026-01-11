@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/carpet",
+	"textures": {
+		"all": "item/pale_moss_block"
+	}
+}

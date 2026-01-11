@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/cartography_table"
+    "model": "minecraft:item/cartography_table"
   }
 }

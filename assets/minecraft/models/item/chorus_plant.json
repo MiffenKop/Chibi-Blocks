@@ -1,0 +1,44 @@
+{
+	"parent": "item/templates/base",
+	"textures": {
+		"0": "item/chorus_plant"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [5, 4, 11, 12], "texture": "#0"},
+				"east": {"uv": [5, 4, 11, 12], "texture": "#0"},
+				"south": {"uv": [5, 4, 11, 12], "texture": "#0"},
+				"west": {"uv": [5, 4, 11, 12], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 2, 0],
+			"to": [14, 14, 16],
+			"faces": {
+				"north": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"east": {"uv": [4, 5, 12, 11], "texture": "#0"},
+				"south": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"west": {"uv": [4, 5, 12, 11], "texture": "#0"},
+				"up": {"uv": [5, 4, 11, 12], "texture": "#0"},
+				"down": {"uv": [5, 4, 11, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 2],
+			"to": [16, 14, 14],
+			"faces": {
+				"north": {"uv": [4, 5, 12, 11], "texture": "#0"},
+				"east": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"south": {"uv": [4, 5, 12, 11], "texture": "#0"},
+				"west": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"up": {"uv": [4, 5, 12, 11], "texture": "#0"},
+				"down": {"uv": [4, 5, 12, 11], "texture": "#0"}
+			}
+		}
+	]
+}

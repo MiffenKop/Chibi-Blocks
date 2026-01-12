@@ -1,0 +1,6 @@
+{
+	"parent": "item/chorus_plant",
+	"textures": {
+		"0": "item/chorus_flower"
+	}
+}

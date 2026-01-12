@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/block",
+	"textures": {
+		"north": "item/fletching_table_front",
+		"east": "item/fletching_table_side",
+		"south": "item/fletching_table_front",
+		"west": "item/fletching_table_side",
+		"up": "item/fletching_table_top",
+		"down": "item/birch_planks"
+	}
+}

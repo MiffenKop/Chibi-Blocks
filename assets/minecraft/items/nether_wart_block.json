@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/nether_wart_block"
+    "model": "minecraft:item/nether_wart_block"
   }
 }

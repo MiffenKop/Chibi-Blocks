@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/chorus_flower"
+    "model": "minecraft:item/chorus_flower"
   }
 }

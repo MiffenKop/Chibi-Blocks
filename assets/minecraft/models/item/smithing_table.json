@@ -6,6 +6,6 @@
 		"south": "item/smithing_table_front",
 		"west": "item/smithing_table_side",
 		"up": "item/smithing_table_top",
-		"down": "item/smithing_table_down"
+		"down": "item/smithing_table_bottom"
 	}
 }

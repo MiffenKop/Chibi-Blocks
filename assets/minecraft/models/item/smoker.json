@@ -1,0 +1,9 @@
+{
+  "parent": "item/templates/block_pf",
+  "textures": {
+    "front": "item/smoker_front",
+    "side": "item/smoker_side",
+    "top": "item/smoker_top",
+    "bottom": "item/smoker_bottom"
+  }
+}

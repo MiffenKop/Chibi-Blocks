@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/block",
+	"textures": {
+		"north": "item/crafter_north",
+		"east": "item/crafter_east",
+		"south": "item/crafter_south",
+		"west": "item/crafter_west",
+		"up": "item/crafter_top",
+		"down": "item/crafter_bottom"
+	}
+}

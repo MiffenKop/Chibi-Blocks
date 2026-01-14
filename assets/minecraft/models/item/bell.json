@@ -1,0 +1,44 @@
+{
+	"parent": "item/templates/base",
+	"textures": {
+		"0": "item/bell",
+		"1": "item/dark_oak_planks"
+	},
+	"elements": [
+		{
+			"from": [3, 2, 3],
+			"to": [13, 4, 13],
+			"faces": {
+				"north": {"uv": [4, 5, 9, 6], "texture": "#0"},
+				"east": {"uv": [4, 5, 9, 6], "texture": "#0"},
+				"south": {"uv": [4, 5, 9, 6], "texture": "#0"},
+				"west": {"uv": [4, 5, 9, 6], "texture": "#0"},
+				"up": {"uv": [4, 0, 9, 5], "texture": "#0"},
+				"down": {"uv": [4, 0, 9, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 12, 7],
+			"to": [15, 14, 9],
+			"faces": {
+				"north": {"uv": [4, 5, 11, 6], "texture": "#1"},
+				"east": {"uv": [4, 5, 5, 6], "texture": "#1"},
+				"south": {"uv": [4, 5, 11, 6], "texture": "#1"},
+				"west": {"uv": [10, 5, 11, 6], "texture": "#1"},
+				"up": {"uv": [4, 4, 11, 5], "texture": "#1"},
+				"down": {"uv": [4, 6, 11, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"west": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"}
+			}
+		}
+	]
+}

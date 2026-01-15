@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/dark_oak_log",
+    "end": "item/dark_oak_log_top"
+  }
+}

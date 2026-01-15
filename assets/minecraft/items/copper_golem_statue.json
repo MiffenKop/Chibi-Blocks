@@ -5,38 +5,23 @@
     "cases": [
       {
         "model": {
-          "type": "minecraft:special",
-          "base": "minecraft:item/template_copper_golem_statue",
-          "model": {
-            "type": "minecraft:copper_golem_statue",
-            "pose": "sitting",
-            "texture": "minecraft:textures/entity/copper_golem/copper_golem.png"
-          }
-        },
+    	"type": "minecraft:model",
+    	"model": "minecraft:item/copper_golem_sitting"
+  	},
         "when": "sitting"
       },
       {
         "model": {
-          "type": "minecraft:special",
-          "base": "minecraft:item/template_copper_golem_statue",
-          "model": {
-            "type": "minecraft:copper_golem_statue",
-            "pose": "running",
-            "texture": "minecraft:textures/entity/copper_golem/copper_golem.png"
-          }
-        },
+    	"type": "minecraft:model",
+    	"model": "minecraft:item/copper_golem_running"
+  	},
         "when": "running"
       },
       {
         "model": {
-          "type": "minecraft:special",
-          "base": "minecraft:item/template_copper_golem_statue",
-          "model": {
-            "type": "minecraft:copper_golem_statue",
-            "pose": "star",
-            "texture": "minecraft:textures/entity/copper_golem/copper_golem.png"
-          }
-        },
+    	"type": "minecraft:model",
+    	"model": "minecraft:item/copper_golem_star"
+  	},
         "when": "star"
       }
     ],

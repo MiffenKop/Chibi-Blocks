@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/spruce_log",
+    "end": "item/spruce_log_top"
+  }
+}

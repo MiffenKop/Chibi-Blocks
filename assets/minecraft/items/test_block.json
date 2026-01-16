@@ -6,28 +6,28 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:block/test_block_log"
+          "model": "minecraft:item/test_block_log"
         },
         "when": "log"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:block/test_block_fail"
+          "model": "minecraft:item/test_block_fail"
         },
         "when": "fail"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:block/test_block_accept"
+          "model": "minecraft:item/test_block_accept"
         },
         "when": "accept"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:block/test_block_start"
+      "model": "minecraft:item/test_block_start"
     },
     "property": "minecraft:block_state"
   }

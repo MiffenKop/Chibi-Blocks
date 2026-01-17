@@ -1,10 +1,23 @@
 {
-  "model": {
-    "type": "minecraft:special",
-    "base": "minecraft:item/template_skull",
-    "model": {
-      "type": "minecraft:head",
-      "kind": "piglin"
-    }
-  }
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "head",
+				"model": {
+					"type": "minecraft:special",
+					"base": "minecraft:item/template_skull",
+					"model": {
+						"type": "minecraft:head",
+						"kind": "piglin"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/piglin_head"
+		}
+	}
 }

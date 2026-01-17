@@ -1,10 +1,23 @@
 {
-  "model": {
-    "type": "minecraft:special",
-    "base": "minecraft:item/dragon_head",
-    "model": {
-      "type": "minecraft:head",
-      "kind": "dragon"
-    }
-  }
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "head",
+				"model": {
+					"type": "minecraft:special",
+					"base": "minecraft:item/dragon_head",
+					"model": {
+						"type": "minecraft:head",
+						"kind": "dragon"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/dragon_head"
+		}
+	}
 }

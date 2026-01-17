@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/block",
+	"textures": {
+		"north": "item/observer_front",
+		"east": "item/observer_side",
+		"south": "item/observer_back",
+		"west": "item/observer_side",
+		"up": "item/observer_top",
+		"down": "item/observer_top"
+	}
+}

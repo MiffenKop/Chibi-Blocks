@@ -1,0 +1,9 @@
+{
+  "parent": "item/templates/block_pf",
+  "textures": {
+    "front": "item/dropper",
+    "side": "item/furnace_side",
+    "top": "item/furnace_top",
+    "bottom": "item/furnace_top"
+  }
+}

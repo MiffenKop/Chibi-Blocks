@@ -1,6 +1,0 @@
-{
-	"parent": "item/templates/head",
-	"textures": {
-		"skull": "item/player_head"
-	}
-}

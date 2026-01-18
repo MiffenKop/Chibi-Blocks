@@ -13,3 +13,7 @@ ImXR24: Cherry Leaves*, Oak Planks (reused for all planks and workbench bottoms)
 GamingBob: Stripped Oak Log (reused for other stripped logs and stripped woods), Podzil*, Path*, Oak Trapdoor, Mycelium*, Mud, Farmland*, Beehive, Bee nest, Melon, Concrete Powder, Sand, Red Sand, Suspicious Sand (reused for suspicious gravel), and Chiseled Bookshelf*
 
 Axl0: Coal Block
+
+Cubeoidal: Deepslate Tiles, Crimson Nylium*, Warped Nylium*, & Dripstone
+
+Axialeaa: Reinforced Deepslate, & Guided Blackstone

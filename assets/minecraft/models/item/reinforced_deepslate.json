@@ -1,0 +1,8 @@
+{
+  "parent": "item/templates/block_pc",
+  "textures": {
+    "side": "item/reinforced_deepslate_side",
+    "top": "item/reinforced_deepslate_top",
+    "bottom": "item/reinforced_deepslate_bottom"
+  }
+}

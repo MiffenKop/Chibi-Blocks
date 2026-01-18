@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/mossy_stone_bricks"
+    "model": "minecraft:item/mossy_stone_bricks"
   }
 }

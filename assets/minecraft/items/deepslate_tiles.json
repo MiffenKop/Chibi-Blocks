@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/deepslate_tiles"
+    "model": "minecraft:item/deepslate_tiles"
   }
 }

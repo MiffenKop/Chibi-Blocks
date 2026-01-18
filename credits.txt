@@ -16,4 +16,4 @@ Axl0: Coal Block
 
 Cubeoidal: Deepslate Tiles, Crimson Nylium*, Warped Nylium*, & Dripstone
 
-Axialeaa: Reinforced Deepslate, & Guided Blackstone
+Axialeaa: Reinforced Deepslate, & Gilded Blackstone (repurposed so for blackstone)

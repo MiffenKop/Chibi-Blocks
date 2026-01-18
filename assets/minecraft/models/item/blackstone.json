@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/blackstone",
+    "end": "item/blackstone_top"
+  }
+}

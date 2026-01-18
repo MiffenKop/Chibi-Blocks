@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/block_all",
+	"textures": {
+		"all": "item/cracked_stone_bricks"
+	}
+}

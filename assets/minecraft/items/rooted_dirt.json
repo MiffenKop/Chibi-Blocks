@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/rooted_dirt"
+    "model": "minecraft:item/rooted_dirt"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/azalea"
+    "model": "minecraft:item/azalea"
   }
 }

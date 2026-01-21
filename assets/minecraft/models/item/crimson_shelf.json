@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/shelf",
+  "textures": {
+    "shelf": "item/crimson_shelf",
+    "end": "item/stripped_crimson_stem"
+  }
+}

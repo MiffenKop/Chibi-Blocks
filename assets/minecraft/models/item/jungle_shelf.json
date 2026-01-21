@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/shelf",
+  "textures": {
+    "shelf": "item/jungle_shelf",
+    "end": "item/stripped_jungle_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/shelf",
+  "textures": {
+    "shelf": "item/dark_oak_shelf",
+    "end": "item/stripped_dark_oak_log"
+  }
+}

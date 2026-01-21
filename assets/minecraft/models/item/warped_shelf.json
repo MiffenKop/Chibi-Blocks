@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/shelf",
+  "textures": {
+    "shelf": "item/warped_shelf",
+    "end": "item/stripped_warped_stem"
+  }
+}

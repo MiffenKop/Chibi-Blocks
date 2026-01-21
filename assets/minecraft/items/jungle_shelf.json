@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/jungle_shelf_inventory"
+    "model": "minecraft:item/jungle_shelf"
   }
 }

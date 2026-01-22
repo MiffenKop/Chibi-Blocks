@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/cracked_nether_bricks"
+    "model": "minecraft:item/cracked_nether_bricks"
   }
 }

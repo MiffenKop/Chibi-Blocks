@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/prismarine_bricks"
+    "model": "minecraft:item/prismarine_bricks"
   }
 }

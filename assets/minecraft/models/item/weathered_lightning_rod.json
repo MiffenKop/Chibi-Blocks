@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/lightning_rod",
+	"textures": {
+		"all": "item/weathered_lightning_rod"
+	}
+}

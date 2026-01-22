@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/exposed_lightning_rod"
+    "model": "minecraft:item/exposed_lightning_rod"
   }
 }

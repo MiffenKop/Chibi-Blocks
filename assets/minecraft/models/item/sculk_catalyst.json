@@ -2,7 +2,7 @@
   "parent": "item/templates/block_pc",
   "textures": {
     "side": "item/sculk_catalyst",
-    "top": "item/sculk",
+    "top": "item/sculk_catalyst_top",
     "bottom": "item/sculk_catalyst_bottom"
   }
 }

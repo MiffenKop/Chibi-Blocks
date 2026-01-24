@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/warped_stem",
+    "end": "item/warped_stem_top"
+  }
+}

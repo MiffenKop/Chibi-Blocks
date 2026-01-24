@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/warped_stem"
+    "model": "minecraft:item/warped_stem"
   }
 }

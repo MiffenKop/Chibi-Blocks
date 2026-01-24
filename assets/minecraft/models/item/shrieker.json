@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/shrieker",
-		"1": "item/sculk",
 		"2": "item/shrieker_top",
+		"3": "item/sculk_sensor_bottom",
 		"particle": "item/shrieker"
 	},
 	"elements": [
@@ -45,7 +45,7 @@
 				"south": {"uv": [0, 4, 8, 8], "texture": "#0", "cullface": "south"},
 				"west": {"uv": [0, 4, 8, 8], "texture": "#0", "cullface": "west"},
 				"up": {"uv": [0, 8, 8, 16], "texture": "#2"},
-				"down": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "down"}
+				"down": {"uv": [4, 4, 12, 12], "texture": "#3", "cullface": "down"}
 			}
 		}
 	],

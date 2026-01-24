@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "item/shrieker",
 		"1": "item/sculk",
+		"2": "item/shrieker_top",
 		"particle": "item/shrieker"
 	},
 	"elements": [
@@ -43,7 +44,7 @@
 				"east": {"uv": [0, 4, 8, 8], "texture": "#0", "cullface": "east"},
 				"south": {"uv": [0, 4, 8, 8], "texture": "#0", "cullface": "south"},
 				"west": {"uv": [0, 4, 8, 8], "texture": "#0", "cullface": "west"},
-				"up": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#2"},
 				"down": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "down"}
 			}
 		}

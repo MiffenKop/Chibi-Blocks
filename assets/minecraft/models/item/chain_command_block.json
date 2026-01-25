@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/block",
+	"textures": {
+		"north": "item/chain_command_block_front",
+		"east": "item/chain_command_block_side",
+		"south": "item/chain_command_block_back",
+		"west": "item/chain_command_block_side",
+		"up": "item/chain_command_block_side",
+		"down": "item/chain_command_block_side"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/shulker_box",
+	"textures": {
+		"all": "item/magenta_shulker_box"
+	}
+}

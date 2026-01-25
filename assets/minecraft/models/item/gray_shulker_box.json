@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/shulker_box",
+	"textures": {
+		"all": "item/gray_shulker_box"
+	}
+}

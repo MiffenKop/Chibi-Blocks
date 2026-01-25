@@ -1,10 +1,6 @@
 {
   "model": {
-    "type": "minecraft:special",
-    "base": "minecraft:item/orange_shulker_box",
-    "model": {
-      "type": "minecraft:shulker_box",
-      "texture": "minecraft:shulker_orange"
-    }
+    "type": "minecraft:model",
+    "model": "minecraft:item/orange_shulker_box"
   }
 }

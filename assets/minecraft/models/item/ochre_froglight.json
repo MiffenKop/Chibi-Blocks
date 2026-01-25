@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/ochre_froglight_side",
+    "end": "item/ochre_froglight_top"
+  }
+}

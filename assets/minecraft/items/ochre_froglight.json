@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/ochre_froglight"
+    "model": "minecraft:item/ochre_froglight"
   }
 }

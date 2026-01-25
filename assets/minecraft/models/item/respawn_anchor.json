@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/block",
+	"textures": {
+		"north": "item/respawn_anchor_side",
+		"east": "item/respawn_anchor_side",
+		"south": "item/respawn_anchor_side",
+		"west": "item/respawn_anchor_side",
+		"up": "item/respawn_anchor_top",
+		"down": "item/crying_obsidian"
+	}
+}

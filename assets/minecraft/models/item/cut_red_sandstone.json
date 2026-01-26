@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/cut_red_sandstone",
+    "end": "item/red_sandstone_top"
+  }
+}

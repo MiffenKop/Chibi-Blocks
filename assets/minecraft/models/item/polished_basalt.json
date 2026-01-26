@@ -1,0 +1,7 @@
+{
+  "parent": "item/templates/block_pillar",
+  "textures": {
+    "side": "item/polished_basalt",
+    "end": "item/polished_basalt_top"
+  }
+}

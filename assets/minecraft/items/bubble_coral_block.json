@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/bubble_coral_block"
+    "model": "minecraft:item/bubble_coral_block"
   }
 }

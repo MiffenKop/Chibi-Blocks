@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/soul_sand"
+    "model": "minecraft:item/soul_sand"
   }
 }

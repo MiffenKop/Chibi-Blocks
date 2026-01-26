@@ -1,0 +1,8 @@
+{
+  "parent": "item/templates/block_pc",
+  "textures": {
+    "side": "item/crimson_nylium_side",
+    "top": "item/crimson_nylium",
+    "bottom": "item/netherrack"
+  }
+}

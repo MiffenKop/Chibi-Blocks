@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/budding_amethyst"
+    "model": "minecraft:item/budding_amethyst"
   }
 }

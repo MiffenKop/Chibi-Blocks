@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/block_all",
+	"textures": {
+		"all": "item/dead_bubble_coral_block"
+	}
+}

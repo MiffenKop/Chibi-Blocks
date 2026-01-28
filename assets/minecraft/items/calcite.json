@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/calcite"
+    "model": "minecraft:item/calcite"
   }
 }

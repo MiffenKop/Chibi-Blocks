@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/wall",
+	"textures": {
+		"all": "item/mossy_cobblestone"
+	}
+}

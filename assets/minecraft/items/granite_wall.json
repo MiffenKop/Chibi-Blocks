@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/granite_wall_inventory"
+    "model": "minecraft:item/granite_wall"
   }
 }

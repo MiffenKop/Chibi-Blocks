@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/spruce_slab"
+    "model": "minecraft:item/spruce_slab"
   }
 }

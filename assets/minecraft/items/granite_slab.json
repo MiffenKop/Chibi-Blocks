@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/granite_slab"
+    "model": "minecraft:item/granite_slab"
   }
 }

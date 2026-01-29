@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/slab_all",
+	"textures": {
+		"all": "item/polished_granite"
+	}
+}

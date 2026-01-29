@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/andesite_slab"
+    "model": "minecraft:item/andesite_slab"
   }
 }

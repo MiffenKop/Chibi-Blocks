@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/prismarine_slab"
+    "model": "minecraft:item/prismarine_slab"
   }
 }

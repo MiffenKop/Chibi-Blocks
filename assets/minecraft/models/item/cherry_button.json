@@ -1,5 +1,5 @@
 {
-	"parent": "item/templates/pressure_plate",
+	"parent": "item/templates/button",
 	"textures": {
 		"all": "item/cherry_planks"
 	}

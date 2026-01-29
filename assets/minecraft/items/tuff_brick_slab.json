@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/tuff_brick_slab"
+    "model": "minecraft:item/tuff_brick_slab"
   }
 }

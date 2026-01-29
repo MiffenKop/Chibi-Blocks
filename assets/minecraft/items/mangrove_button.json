@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/mangrove_button_inventory"
+    "model": "minecraft:item/mangrove_button"
   }
 }

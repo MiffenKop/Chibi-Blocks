@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/birch_button_inventory"
+    "model": "minecraft:item/birch_button"
   }
 }

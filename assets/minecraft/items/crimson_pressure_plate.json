@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/crimson_pressure_plate"
+    "model": "minecraft:item/crimson_pressure_plate"
   }
 }

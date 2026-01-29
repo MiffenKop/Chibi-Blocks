@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/pressure_plate",
+	"textures": {
+		"all": "item/cherry_planks"
+	}
+}

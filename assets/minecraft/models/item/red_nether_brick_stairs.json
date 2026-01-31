@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/red_nether_bricks",
+		"east": "item/red_nether_bricks",
+		"south": "item/red_nether_bricks",
+		"west": "item/red_nether_bricks",
+		"up": "item/red_nether_bricks",
+		"down": "item/red_nether_bricks"
+	}
+}

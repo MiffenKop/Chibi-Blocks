@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/cobbled_deepslate",
+		"east": "item/cobbled_deepslate",
+		"south": "item/cobbled_deepslate",
+		"west": "item/cobbled_deepslate",
+		"up": "item/cobbled_deepslate",
+		"down": "item/cobbled_deepslate"
+	}
+}

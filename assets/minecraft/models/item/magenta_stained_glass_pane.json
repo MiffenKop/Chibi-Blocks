@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/pane",
+	"textures": {
+		"all": "item/magenta_stained_glass"
+	}
+}

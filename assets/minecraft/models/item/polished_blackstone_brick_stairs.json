@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/polished_blackstone_bricks",
+		"east": "item/polished_blackstone_bricks",
+		"south": "item/polished_blackstone_bricks",
+		"west": "item/polished_blackstone_bricks",
+		"up": "item/polished_blackstone_bricks",
+		"down": "item/polished_blackstone_bricks"
+	}
+}

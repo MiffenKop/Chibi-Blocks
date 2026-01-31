@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/crimson_planks",
+		"east": "item/crimson_planks",
+		"south": "item/crimson_planks",
+		"west": "item/crimson_planks",
+		"up": "item/crimson_planks",
+		"down": "item/crimson_planks"
+	}
+}

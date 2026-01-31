@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/quartz_block",
+		"east": "item/quartz_block",
+		"south": "item/quartz_block",
+		"west": "item/quartz_block",
+		"up": "item/quartz_block",
+		"down": "item/quartz_block"
+	}
+}

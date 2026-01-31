@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/prismarine",
+		"east": "item/prismarine",
+		"south": "item/prismarine",
+		"west": "item/prismarine",
+		"up": "item/prismarine",
+		"down": "item/prismarine"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/polished_deepslate",
+		"east": "item/polished_deepslate",
+		"south": "item/polished_deepslate",
+		"west": "item/polished_deepslate",
+		"up": "item/polished_deepslate",
+		"down": "item/polished_deepslate"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/red_sandstone_top",
+		"east": "item/red_sandstone_top",
+		"south": "item/red_sandstone_top",
+		"west": "item/red_sandstone_top",
+		"up": "item/red_sandstone_top",
+		"down": "item/red_sandstone_top"
+	}
+}

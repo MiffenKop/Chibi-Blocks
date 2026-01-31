@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/mangrove_planks",
+		"east": "item/mangrove_planks",
+		"south": "item/mangrove_planks",
+		"west": "item/mangrove_planks",
+		"up": "item/mangrove_planks",
+		"down": "item/mangrove_planks"
+	}
+}

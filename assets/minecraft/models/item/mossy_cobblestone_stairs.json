@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/mossy_cobblestone",
+		"east": "item/mossy_cobblestone",
+		"south": "item/mossy_cobblestone",
+		"west": "item/mossy_cobblestone",
+		"up": "item/mossy_cobblestone",
+		"down": "item/mossy_cobblestone"
+	}
+}

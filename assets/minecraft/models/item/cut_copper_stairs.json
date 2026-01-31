@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/cut_copper",
+		"east": "item/cut_copper",
+		"south": "item/cut_copper",
+		"west": "item/cut_copper",
+		"up": "item/cut_copper",
+		"down": "item/cut_copper"
+	}
+}

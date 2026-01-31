@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/mud_brick_stairs"
+    "model": "minecraft:item/mud_brick_stairs"
   }
 }

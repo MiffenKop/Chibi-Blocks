@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/polished_diorite",
+		"east": "item/polished_diorite",
+		"south": "item/polished_diorite",
+		"west": "item/polished_diorite",
+		"up": "item/polished_diorite",
+		"down": "item/polished_diorite"
+	}
+}

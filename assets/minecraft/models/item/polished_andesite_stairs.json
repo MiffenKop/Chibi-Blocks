@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/polished_andesite",
+		"east": "item/polished_andesite",
+		"south": "item/polished_andesite",
+		"west": "item/polished_andesite",
+		"up": "item/polished_andesite",
+		"down": "item/polished_andesite"
+	}
+}

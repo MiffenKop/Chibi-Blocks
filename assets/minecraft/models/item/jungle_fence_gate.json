@@ -1,0 +1,6 @@
+{
+	"parent": "item/templates/fence_gate",
+	"textures": {
+		"all": "item/jungle_planks"
+	}
+}

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/red_sandstone_stairs"
+    "model": "minecraft:item/red_sandstone_stairs"
   }
 }

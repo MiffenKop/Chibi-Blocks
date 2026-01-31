@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/bamboo_mosaic",
+		"east": "item/bamboo_mosaic",
+		"south": "item/bamboo_mosaic",
+		"west": "item/bamboo_mosaic",
+		"up": "item/bamboo_mosaic",
+		"down": "item/bamboo_mosaic"
+	}
+}

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:block/polished_granite_stairs"
+    "model": "minecraft:item/polished_granite_stairs"
   }
 }

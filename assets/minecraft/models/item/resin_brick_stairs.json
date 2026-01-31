@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/resin_bricks",
+		"east": "item/resin_bricks",
+		"south": "item/resin_bricks",
+		"west": "item/resin_bricks",
+		"up": "item/resin_bricks",
+		"down": "item/resin_bricks"
+	}
+}

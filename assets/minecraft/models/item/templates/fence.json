@@ -1,4 +1,6 @@
 {
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
 	"parent": "item/templates/base",
 	"elements": [
 		{
@@ -17,9 +19,9 @@
 			"from": [0, 10, 7],
 			"to": [16, 14, 9],
 			"faces": {
-				"north": {"uv": [4, 6, 12, 8], "texture": "#all"},
+				"north": {"uv": [4, 4, 12, 6], "texture": "#all"},
 				"east": {"uv": [7, 6, 8, 8], "texture": "#all"},
-				"south": {"uv": [4, 6, 12, 8], "texture": "#all"},
+				"south": {"uv": [4, 4, 12, 6], "texture": "#all"},
 				"west": {"uv": [7, 6, 8, 8], "texture": "#all"},
 				"up": {"uv": [4, 7, 12, 8], "texture": "#all"},
 				"down": {"uv": [4, 7, 12, 8], "texture": "#all"}

@@ -17,3 +17,5 @@ Axl0: Coal Block
 Cubeoidal: Deepslate Tiles, Crimson Nylium*, Warped Nylium*, & Dripstone
 
 Axialeaa: Reinforced Deepslate, & Gilded Blackstone (repurposed so for blackstone)
+
+and thank you maingvaldsen and sapling. for help with the Hold My Items compatability

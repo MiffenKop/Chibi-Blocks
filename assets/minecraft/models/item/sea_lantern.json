@@ -1,6 +1,7 @@
 {
-	"parent": "item/templates/block_all",
-	"textures": {
-		"all": "item/sea_lantern"
-	}
+  "parent": "item/templates/emmissive_block",
+  "textures": {
+    "side": "item/sea_lantern",
+    "end": "item/sea_lantern"
+  }
 }

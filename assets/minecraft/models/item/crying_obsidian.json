@@ -1,6 +1,7 @@
 {
-	"parent": "item/templates/block_all",
-	"textures": {
-		"all": "item/crying_obsidian"
-	}
+  "parent": "item/templates/emmissive_block",
+  "textures": {
+    "side": "item/crying_obsidian",
+    "end": "item/crying_obsidian"
+  }
 }

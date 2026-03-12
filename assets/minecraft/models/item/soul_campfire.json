@@ -73,6 +73,7 @@
 			"from": [8, 0, 0],
 			"to": [8, 16, 16],
 			"shade": false,
+			"light_emission": 15,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [2, 0, 2, 16], "texture": "#1"},
@@ -87,6 +88,7 @@
 			"from": [0, 0, 8],
 			"to": [16, 16, 8],
 			"shade": false,
+			"light_emission": 15,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [4, 4, 12, 12], "texture": "#1"},
@@ -98,6 +100,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 45, 0],

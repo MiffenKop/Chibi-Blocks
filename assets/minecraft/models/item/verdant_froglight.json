@@ -1,5 +1,5 @@
 {
-  "parent": "item/templates/block_pillar",
+  "parent": "item/templates/emmissive_block",
   "textures": {
     "side": "item/verdant_froglight_side",
     "end": "item/verdant_froglight_top"

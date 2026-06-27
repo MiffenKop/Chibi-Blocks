@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/sulfur",
+		"east": "item/sulfur",
+		"south": "item/sulfur",
+		"west": "item/sulfur",
+		"up": "item/sulfur",
+		"down": "item/sulfur"
+	}
+}

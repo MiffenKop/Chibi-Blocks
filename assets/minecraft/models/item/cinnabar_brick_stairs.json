@@ -1,0 +1,11 @@
+{
+	"parent": "item/templates/stair",
+	"textures": {
+		"north": "item/cinnabar_bricks",
+		"east": "item/cinnabar_bricks",
+		"south": "item/cinnabar_bricks",
+		"west": "item/cinnabar_bricks",
+		"up": "item/cinnabar_bricks",
+		"down": "item/cinnabar_bricks"
+	}
+}
